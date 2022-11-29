@@ -30,7 +30,7 @@
 <li>Have Alexa or Siri devices (4)</li>
 <li>Have basic knowledge of Java programming language in case you would like to see what you run on your computer and what is in the Java app (5) otherwise, you can simply download the Java app from <a href="https://github.com/Navid-Dian/MyIP_Finder">here</a>.</li>
 </ul>
-<p><strong>Configuration</strong></p>
+<h3><strong>Configuration</strong></h3>
 <h4>1. Allow access to your PC (PC settings) and allow access to your PC from outside your PC's network (Router settings) (2 steps).</h4>
 <p>You create a peer-to-peer connection when you connect to your PC using a Remote Desktop client. This means you need direct access to the PC (sometimes called "the host"). So, first, you need to allow access to your PC by enabling RDC and defining a user account which allows having that access remotely. Second, If you need to connect to your PC from outside of the network (e.g., Internet), our aim, you need to enable that access too. You have a couple of options to do the latter: 1) use port forwarding or 2) set up a VPN.</p>
 <p>Follow the instructions below to allow access to your PC (PC settings) [step 1]:</p>
