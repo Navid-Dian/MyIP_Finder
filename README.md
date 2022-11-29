@@ -1,7 +1,7 @@
 <h2><strong>[Full] Tutorial: How to use your home computer from anywhere; set up and connect to your PC without additional remote desktop applications.</strong></h2>
 <h3><strong>Introduction</strong></h3>
 <p>Remote Desktop is a very convenient way to access other computer resources, unlike cloud storage, which is limited to accessing files. I found it useful mostly in five cases: 1) When you don't have access to the software you need on your portable devices such as a laptop, possibly due to the limited number of licenses you can have), 2) you don't have admin privilege to install third-party software (i.e., restricted computers), 3) you have a powerful computer somewhere (e.g., at home) but it's not portable or with you always (e.g., due to portability, security, etc.) 4) you need to use specific software, but you only have access to a portable computing device available, e.g., Tablets (e.g., iPads) or other Arm-based devices that are not capable of running an all x64/x86 software natively (e.g., M1 or M2 Macbooks) 5) you need to monitor a process conveniently and remotely, but the software or system does have built-in cloud services.</p>
-<p><strong>Scope</strong></p>
+<h3><strong>Scope</strong></h3>
 <p>This tutorial applies to all computers that can run native remote desktop applications (e.g., Remote Desktop Connection, RDC), covers how to set up a Remote Desktop in Windows 10 &amp; 11, a free cloud storage space, use Windows Task Scheduler, and set up home automation phone apps and link them to Amazon Alexa. It also provides Java code for finding the public IP address of the host computer remotely.</p>
 <h3>&nbsp;<strong>In the end, you will be able to:</strong></h3>
 <ol>
@@ -18,7 +18,7 @@
 <li>Routing your connection through home network (Port Forwarding)</li>
 </ol>
 <p>, Which I will address both in this tutorial.</p>
-<p><strong>Approach</strong></p>
+<h3><strong>Approach</strong></h3>
 <p>The approach of this tutorial is based on <strong>problem solving</strong> techniques, implemented in four steps, understanding the challenge, brainstorming, picking the best strategy, and deploying the solution. In each step, I will introduce the most feasible options available. More information on problem solving techniques: <a href="https://asq.org/quality-resources/problem-solving">https://asq.org/quality-resources/problem-solving</a></p>
 <p><strong>/*</strong>One may argue that these challenges can be easily rectified by buying things (licenses, services, hardware) or, in other words, with money. This is true, but this tutorial intends to help individuals (e.g., students, etc.) who want to benefit from using the Remote Desktop Service with minimum or no cost.<strong>*/</strong></p>
 <h3><strong>Limitation</strong></h3>
